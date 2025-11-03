@@ -32,11 +32,6 @@
 
 - Balance goal: Encourage class identity while allowing limited build variation without overpowering hybrids.
 
----
 
-##  Description  
-RPJ is a simple text-based role-playing game written in **Java**, featuring multiple character and weapon classes. Players can explore different playstyles by choosing between melee, ranged, and magic combat types.
-
----
 
 
